@@ -1,0 +1,6 @@
+{
+  "name": "App Marmitaria EGN - BLACK Cozinha Lucrativa Oficial",
+  "description": "Página oficial de vendas BLACK Cozinha Lucrativa do aplicativo exclusivo para marmitarias com a metodologia da Chef Gabi Paludo (EGN) e tecnologia Easy Byz Creator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
